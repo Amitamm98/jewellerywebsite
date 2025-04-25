@@ -5,7 +5,7 @@ const Contact = () => {
     <>
       <section className="contact">
         <div className="mainPadding text-white">
-          <h3 className="text-center text-4xl font-bold">Conntact With Us</h3>
+          <h3 className="text-center text-4xl font-bold">Contact With Us</h3>
           <p className="my-7 text-lg">
           Have questions or need guidance in choosing the perfect piece? Our expert team is here to help you shine. Reach out to us for personalized assistance, custom orders, or simply to share your sparkle story — we’re just a message away, ready to make you glow.
           </p>
